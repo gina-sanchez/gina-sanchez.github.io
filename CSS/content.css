@@ -1,0 +1,17 @@
+#section{
+    float: left;
+    width: 100%;
+    background-color: var(--font-color);
+    box-shadow: 4px 4px 8px rgb(70, 70, 70);
+    padding: 20px 40px;
+}
+#malla-curricular{
+    float: left;
+    width: 100%;
+    background-color: var(--font-color);
+    box-shadow: 4px 4px 8px rgb(70, 70, 70);
+    padding: 20px 40px;
+    width: 100%;
+    height: auto;
+    margin-top: 20px;
+}

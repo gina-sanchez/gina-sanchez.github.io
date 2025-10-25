@@ -1,0 +1,13 @@
+header{
+    float:left;
+    width: 100%; 
+    font-family:"agency fb", sans-serif;
+    text-align: center;
+    margin:20px 0;
+}
+header h1{
+    font-size: 40px;
+    margin: 0;
+    text-shadow: 4px 4px 8px #5c505e;
+    color:var(--secondary-color-dark);
+}
