@@ -3,7 +3,7 @@ html, body {
     padding: 0;
     background-color: var(--secondary-color);
     font-family: "times new roman", serif;
-    background-image: url("..img/fondo.page2.jpg");
+    background-image: url("../img/fondo.page2.jpg");
 }
 
 #container {
