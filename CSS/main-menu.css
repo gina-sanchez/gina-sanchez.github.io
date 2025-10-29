@@ -1,7 +1,7 @@
 #main-menu{
     float: left;
     width: 100%;
-    background-color: var(--secondary-color);
+    background-color: var(--primary-color);
     box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.1);
 }
 

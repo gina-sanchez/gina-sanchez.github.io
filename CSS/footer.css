@@ -2,7 +2,7 @@
     color: var(--primary-color);
     float: left;
     width: 100%;
-    background-color: var(--secondary-color);
+    background-color: var(--primary-color);
     box-shadow: 4px 4px 8px rgb(70, 70, 70);
     padding: 20px 40px;
     font-size: 12px;
