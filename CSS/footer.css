@@ -8,3 +8,7 @@
     font-size: 12px;
     text-align: center;
 }
+ #footer > ul > li > a{
+        text-align: center;
+        display: block;
+    }
