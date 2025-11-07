@@ -1,0 +1,18 @@
+#profesores{
+    float: left;
+    width: 100%;
+}
+
+@media (max-width: 700px){
+
+    #profesores > ul > li{
+       width: 100%;
+       margin: 0;
+       border-bottom: solid 1px var(--font-color);
+    }
+
+    #profesores > ul > li > a{
+        text-align: center;
+        display: block;
+    }
+}
